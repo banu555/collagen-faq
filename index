@@ -1,0 +1,218 @@
+ <section class="faq" id="faqs">
+         <div class="container">
+            <div class="faq-top">
+               <div class="faq-t-left">
+                  <h4 class="m-0">Frequently Asked</h4>
+                  <h3 class="m-0">Questions</h3>
+               </div>
+               <div class="faq-t-right">
+                  <div id="accordion" role="tablist" aria-multiselectable="true">
+                     <div class="card">
+                        <div class="card-header" role="tab" id="headingOne">
+                           <h5 class="mb-0">
+                              <a data-toggle="collapse" data-parent="#accordion" href="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
+                               Why doesn’t this include multiple types of collagen?
+                              </a>
+                           </h5>
+                        </div>
+                        <div id="collapseOne" class="collapse show" role="tabpanel" aria-labelledby="headingOne">
+                           <div class="card-block">
+                            A lot of companies take a “jack of all trades” approach to collagen by throwing in a bunch of different types, and claiming their product 
+                            will help everything — muscles, joints, and skin. But you know what they say, right? A jack of all trades is a master of none.
+                            <br /><br />
+                           Rather than trying to do everything at once, which just isn’t realistic from a supplement, we chose to focus on one thing and do it right.
+                           Eighty percent of the collagen in your skin is type 1 so we focused on creating a truly effective skin collagen formula, by including the
+                           right type of collagen, from the right source (we use a marine source, which has a lower molecular weight, making it better absorbed by the body).
+                           <br /><br />
+                           Instead of adding other types of collagen and having no room to fortify our collagen blend and make it really effective, we chose to
+                           add additional support ingredients that both boost natural collagen production and protect our skin's 
+                           collagen from environmental toxins. Anthocyanins (found in the 3 berry extracts in our support ingredient list)
+                           have high antioxidant activities and support collagen synthesis by shielding collagen producing cells 
+                           from damaging environmental and lifestyle factors. They are vital for any 'beauty from within' product. Berries that we use include blueberry, 
+                           currant, and crowberry extracts, all containing various collagen producing and protecting properties.
+                           </div>
+                        </div>
+                     </div>
+                     <div class="card">
+                        <div class="card-header" role="tab" id="headingTwo">
+                           <h5 class="mb-0">
+                              <a class="collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+                              How long does it take to see results?
+                              </a>
+                           </h5>
+                        </div>
+                        <div id="collapseTwo" class="collapse" role="tabpanel" aria-labelledby="headingTwo">
+                           <div class="card-block">
+                             Our Smarter Skin Collagen was clinically tested by dermatologists, who objectively measured changes in wrinkles, pore size, age spots, and skin texture over the course of the study. The changes in skin appearance came more quickly than expected, with results coming in weeks, not months, and getting better over time. Here’s a brief overview of the amazing results:
+                             <br /><br />
+                           
+                                In just 3 weeks 41% of participants showed improved skin texture, and at 7 weeks, 81% showed improved skin texture.
+                             <br /><br />
+                          
+                             In just 4 weeks there was a significant reduction in wrinkles, decreased age spots, and improvements in overall look of facial skin, with a brighter appearance.
+
+                           </div>
+                        </div>
+                     </div>
+                     <div class="card">
+                        <div class="card-header" role="tab" id="headingThree">
+                           <h5 class="mb-0">
+                              <a class="collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
+                              Where are the fish sourced? 
+                              </a>
+                           </h5>
+                        </div>
+                        <div id="collapseThree" class="collapse" role="tabpanel" aria-labelledby="headingThree">
+                           <div class="card-block">
+                           Smarter's Marine Collagen comes exclusively from fresh, wild-caught fish, sustainably sourced from the deep, clean pristine waters of the South Pacific — the cleanest source of any collagen.</div>
+                        </div>
+                     </div>
+                     <div class="card">
+                        <div class="card-header" role="tab" id="headingFour">
+                           <h5 class="mb-0">
+                              <a class="collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapseFour" aria-expanded="false" aria-controls="collapseFour">
+                              Is there a flavorless option?
+                              </a>
+                           </h5>
+                        </div>
+                        <div id="collapseFour" class="collapse" role="tabpanel" aria-labelledby="headingFour">
+                           <div class="card-block">
+                           The flavor in our current formulation actually serves an important purpose. The natural berry flavor comes from our important collagen-producing and protecting support ingredients such as blueberry, black currant, crowberry (and several others) which support collagen synthesis by shielding collagen producing cells from damaging environmental and lifestyle factors. Called the "internal sunscreens", these berries provide potent protection against inflammation and DNA damage from the sun, poor diet, and other external factors. So the flavor in our product is an essential part of what makes our triple-action blend so powerful.
+                           </div>
+                        </div>
+                     </div>
+                     <div class="card">
+                        <div class="card-header" role="tab" id="headingFive">
+                           <h5 class="mb-0">
+                              <a class="collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapseFive" aria-expanded="false" aria-controls="collapseFive">
+                             Do I have to drink it in water?
+                              </a>
+                           </h5>
+                        </div>
+                        <div id="collapseFive" class="collapse" role="tabpanel" aria-labelledby="headingFive">
+                           <div class="card-block">
+                             No! Some of our customers mix it into their morning smoothies, where it gives a great berry boost to the flavor. 
+                             Other customers have told us they make blueberry lattes by frothing their milk 
+                             (or non-dairy milk alternative) with collagen and they love it! 
+                           </div>
+                        </div>
+                     </div>
+                     <div class="card">
+                        <div class="card-header" role="tab" id="headingSix">
+                           <h5 class="mb-0">
+                              <a class="collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapseSix" aria-expanded="false" aria-controls="collapseSix">
+                              Can I take while pregnant or nursing? 
+                              </a>
+                           </h5>
+                        </div>
+                        <div id="collapseSix" class="collapse" role="tabpanel" aria-labelledby="headingSix">
+                           <div class="card-block">
+                             Please consult your healthcare provider before taking while pregnant or nursing.
+
+                           </div>
+                        </div>
+                     </div>
+                     <div class="card">
+                        <div class="card-header" role="tab" id="headingSeven">
+                           <h5 class="mb-0">
+                              <a class="collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapseSeven" aria-expanded="false" aria-controls="collapseSeven">
+                             Is it beneficial for hair? 
+                              </a>
+                           </h5>
+                        </div>
+                        <div id="collapseSeven" class="collapse" role="tabpanel" aria-labelledby="headingSeven">
+                           <div class="card-block">
+                            Hair, skin, and nails ALL benefit from the nourishing power of type 1 hydrolyzed collagen peptides in our formula! 
+                            You also get the powerful antioxidant protection of our anthocyanin berry blend, along with Vitamin C and E which 
+                            all have very positive effects on hair and nails by helping combat free radicals and forming a protective molecular shield against the elements!
+                            You can look and feel better than ever. And the best part, according to our studies, is that it works quickly.
+
+                           </div>
+                        </div>
+                     </div>
+                      <div class="card">
+                        <div class="card-header" role="tab" id="headingEight">
+                           <h5 class="mb-0">
+                              <a class="collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapseEight" aria-expanded="false" aria-controls="collapseEight">
+                             Is it beneficial for acne? 
+                              </a>
+                           </h5>
+                        </div>
+                        <div id="collapseEight" class="collapse" role="tabpanel" aria-labelledby="headingEight">
+                           <div class="card-block">
+                            The powerful antioxidant protection of our anthocyanin berry blend, along with Vitamin C and E, can be very beneficial for
+                            helping heal acne scars and forming a protective molecular shield against the elements.
+
+                           </div>
+                        </div>
+                     </div>
+                     <div class="card">
+                        <div class="card-header" role="tab" id="headingNine">
+                           <h5 class="mb-0">
+                              <a class="collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapseNine" aria-expanded="false" aria-controls="collapseNine">
+                             Am I too young or too old to start taking collagen? 
+                              </a>
+                           </h5>
+                        </div>
+                        <div id="collapseNine" class="collapse" role="tabpanel" aria-labelledby="headingNine">
+                           <div class="card-block">
+                            In our twenties we begin to decrease collagen production by 1.5% every year and it is decreased by 50% by the time we are 60. So, starting early is key to preventing signs of aging from occuring in our skin and keep our skin looking young, bright, 
+                            and wrinkle free for longer. That being said, there is no age too old to begin replacing and protecting your skin's collagen. Just because you didn’t start at 20, doesn’t mean you can’t start now!
+
+
+                           </div>
+                        </div>
+                     </div>
+                     <div class="card">
+                        <div class="card-header" role="tab" id="headingTen">
+                           <h5 class="mb-0">
+                              <a class="collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapseTen" aria-expanded="false" aria-controls="collapseTen">
+                             Are there any side effects?
+                              </a>
+                           </h5>
+                        </div>
+                        <div id="collapseTen" class="collapse" role="tabpanel" aria-labelledby="headingTen">
+                           <div class="card-block">
+                           There are no known side effects. As with any supplement, please read over our ingredients and ensure there is nothing you may be allergic or sensitive to, and consult your
+                           healthcare provider if you have any concerns, or are taking any existing medications.
+
+                           </div>
+                        </div>
+                     </div>
+                     <div class="card">
+                        <div class="card-header" role="tab" id="headingEleven">
+                           <h5 class="mb-0">
+                              <a class="collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapseEleven" aria-expanded="false" aria-controls="collapseEleven">
+                             What about mercury? 
+                              </a>
+                           </h5>
+                        </div>
+                        <div id="collapseEleven" class="collapse" role="tabpanel" aria-labelledby="headingEleven">
+                           <div class="card-block">
+                            We understand that mercury is always a concern whenever fish is used. But not to worry — we test all of our products for heavy metal 
+                            content, toxins, microbials and pesticides and unless the ingredients pass these tests they cannot be released to the public. We can 
+                            also assure you the product is free of microplastics and radiation. Our internal team and third-party partners work together to ensure that our 
+                            ingredients meet or exceed the highest standards of quality, safety, and purity.
+
+                           </div>
+                        </div>
+                     </div>
+                  </div>
+               </div>
+            </div>
+            <div class="faq-bottom desktop-p">
+                <img data-class="LazyLoad" src='images/blank.png' data-src="images/orange.png" alt="ideology" class="orange-img">
+                <img data-class="LazyLoad" src='images/blank.png' data-src="images/avocado.png" alt="ideology" class="avocado-img">
+               <!--<img src="<?= $path['images'] ?>/orange.png" class="orange-img" alt="">-->
+               <!--<img src="<?= $path['images'] ?>/avocado.png" class="avocado-img" alt="">-->
+               <div class="questions">QUESTIONS? E-mail - <a href="https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=support@smarternutrition.com" id="link-3407-457" class="" target="_blank">support@smarternutrition.com</a>&nbsp;
+                  or call <a class="nonblock" href="#">1-800-976-6118</a>
+               </div>
+            </div>
+            <div class="faq-bottom-new mobile-p">
+               <div class="questions">Didn't find the answer?<br> E-mail - <a href="https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=support@smarternutrition.com" id="link-3407-457" class="" target="_blank">support@smarternutrition.com</a>&nbsp;
+                  <br> call <a class="nonblock" href="#">1-800-976-6118</a>
+               </div>
+            </div>
+         </div>
+      </section>
